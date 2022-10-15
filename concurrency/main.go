@@ -28,6 +28,7 @@ func main() {
 	testChannelUniDir()
 	testDeadLockWithChannel()
 	testDeadLockSol()
+	fanInFanOut()
 
 }
 
